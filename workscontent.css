@@ -120,9 +120,12 @@ main .works_content_wrap .works_desc .works_content_text p {
   main .works_content_wrap .works_desc .works_content_title h3 {
     font-size: 4vw !important;
   }
+  main .works_content_wrap .works_desc .works_content_title a {
+    font-size: 3.8vw;
+  }
   main .works_content_wrap .works_desc .works_content_text p {
     width: 80vw !important;
-    font-size: 3.7vw;
+    font-size: 3.5vw;
   }
 }
 /*# sourceMappingURL=workscontent.css.map */

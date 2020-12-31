@@ -355,11 +355,29 @@ main .index_contact_wrap .index_contact .contact_button_wrap:hover {
   main .ability_wrap .ability_text_wrap {
     height: 20vh;
   }
+  main .ability_wrap .ability_text_wrap .ability_text h4 {
+    font-size: 3.2vw;
+  }
+  main .ability_wrap .ability_text_wrap .ability_text h5 {
+    font-size: 3vw;
+  }
+  main .ability_wrap .ability_text_wrap .ability_text p {
+    font-size: 2.5vw;
+  }
+  main .ability_wrap .ability_text_wrap .ability_text a {
+    font-size: 2.5vw;
+  }
   main .index_contact_wrap {
     margin-top: 12vh;
   }
+  main .index_contact_wrap .index_contact p {
+    font-size: 3.6vw;
+  }
   main .index_contact_wrap .index_contact .contact_button_wrap {
     width: 80%;
+  }
+  main .index_contact_wrap .index_contact .contact_button_wrap a {
+    font-size: 3.5vw;
   }
 }
 /*# sourceMappingURL=index.css.map */
