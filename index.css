@@ -356,16 +356,16 @@ main .index_contact_wrap .index_contact .contact_button_wrap:hover {
     height: 20vh;
   }
   main .ability_wrap .ability_text_wrap .ability_text h4 {
-    font-size: 3.2vw;
+    font-size: 3.2vw !important;
   }
   main .ability_wrap .ability_text_wrap .ability_text h5 {
-    font-size: 3vw;
+    font-size: 3vw !important;
   }
   main .ability_wrap .ability_text_wrap .ability_text p {
-    font-size: 2.5vw;
+    font-size: 2.5vw !important;
   }
   main .ability_wrap .ability_text_wrap .ability_text a {
-    font-size: 2.5vw;
+    font-size: 2.5vw !important;
   }
   main .index_contact_wrap {
     margin-top: 12vh;
